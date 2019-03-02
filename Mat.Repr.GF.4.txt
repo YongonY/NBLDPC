@@ -1,0 +1,10 @@
+GF(4) with Primitive Polynomial: 7 
+A^0 --> order: 0	poly: 1
+1 0 
+0 1 
+A^1 --> order: 1	poly: 2
+0 1 
+1 1 
+A^2 --> order: 2	poly: 3
+1 1 
+1 0 
